@@ -94,6 +94,7 @@ export default defineConfig({
           { text: '음성 모드', link: '/user-guide/features/voice-mode' },
           { text: '성격 및 SOUL.md', link: '/user-guide/features/personality' },
           { text: '컨텍스트 파일', link: '/user-guide/features/context-files' },
+          { text: 'ACP (에디터 연동)', link: '/user-guide/features/acp' },
         ],
       },
       {
@@ -107,6 +108,7 @@ export default defineConfig({
         items: [
           { text: 'CLI 명령어', link: '/reference/cli-commands' },
           { text: 'FAQ 및 문제 해결', link: '/reference/faq' },
+          { text: 'OpenClaw 마이그레이션', link: '/reference/migration-openclaw' },
         ],
       },
     ],

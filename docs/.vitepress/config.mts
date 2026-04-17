@@ -113,6 +113,11 @@ export default defineConfig({
           { text: '05. Google Workspace 연동은 왜 오래 걸릴까', link: '/build-journey/05-why-google-workspace-integration-takes-longer-than-expected' },
           { text: '06. 삽질을 체크리스트로 바꾸는 법', link: '/build-journey/06-how-to-turn-stumbles-into-checklists' },
           { text: '07. 왜 위키를 먼저 쓰고 나중에 뽑을까', link: '/build-journey/07-why-we-write-the-wiki-first' },
+          { text: '21. 운영 체크리스트는 어떻게 써야 도움이 될까', link: '/build-journey/21-how-to-make-hermes-operation-checklists-actually-useful' },
+          { text: '22. 하비 메인 창구 구조는 왜 강력하고 어디서 병목이 생길까', link: '/build-journey/22-why-harvey-main-window-is-powerful-and-where-it-bottlenecks' },
+          { text: '23. 방울이 조사형 에이전트는 어디서 강해지고 어디서 흔들릴까', link: '/build-journey/23-where-bangwooli-research-agent-is-strong-and-where-it-wobbles' },
+          { text: '24. 뽀동이 정리형 에이전트는 어디서 강해지고 어디서 흔들릴까', link: '/build-journey/24-where-ppodongi-organization-agent-is-strong-and-where-it-wobbles' },
+          { text: '25. OpenClaw에서 Hermes로 넘어올 때 체크리스트는 왜 필요했을까', link: '/build-journey/25-why-openclaw-to-hermes-needed-a-migration-checklist' },
         ],
       },
       {

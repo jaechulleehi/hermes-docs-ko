@@ -61,24 +61,21 @@ export default defineConfig({
 
     nav: [
       { text: '홈', link: '/' },
-      { text: '시작하기', link: '/getting-started/installation' },
-      { text: '사용 가이드', link: '/user-guide/configuration' },
+      { text: '공식 문서', link: '/official-docs/' },
+      { text: '활용 사례', link: '/use-cases/' },
+      { text: '구축 과정', link: '/build-journey/' },
       { text: '개발자 가이드', link: '/developer-guide/architecture' },
       { text: '레퍼런스', link: '/reference/cli-commands' },
     ],
 
     sidebar: [
       {
-        text: '시작하기',
+        text: '공식 문서',
         items: [
+          { text: '공식 문서 허브', link: '/official-docs/' },
           { text: '설치', link: '/getting-started/installation' },
           { text: '빠른 시작', link: '/getting-started/quickstart' },
           { text: '학습 경로', link: '/getting-started/learning-path' },
-        ],
-      },
-      {
-        text: '사용 가이드',
-        items: [
           { text: '설정', link: '/user-guide/configuration' },
           { text: '메시징 게이트웨이', link: '/user-guide/messaging' },
           { text: '보안', link: '/user-guide/security' },
@@ -95,6 +92,20 @@ export default defineConfig({
           { text: '성격 및 SOUL.md', link: '/user-guide/features/personality' },
           { text: '컨텍스트 파일', link: '/user-guide/features/context-files' },
           { text: 'ACP (에디터 연동)', link: '/user-guide/features/acp' },
+        ],
+      },
+      {
+        text: '활용 사례',
+        items: [
+          { text: '활용 사례 허브', link: '/use-cases/' },
+        ],
+      },
+      {
+        text: '구축 과정',
+        items: [
+          { text: '구축 과정 허브', link: '/build-journey/' },
+          { text: '01. OpenClaw에서 Hermes로 넘어왔나', link: '/build-journey/01-why-we-moved-from-openclaw-to-hermes' },
+          { text: '02. 하비를 메인 창구로 두었나', link: '/build-journey/02-why-harvey-is-the-front-door' },
         ],
       },
       {

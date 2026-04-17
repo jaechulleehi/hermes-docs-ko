@@ -58,3 +58,21 @@ curl -fsSL https://hermes.nousresearch.com/install.sh | bash
 ## 라이선스
 
 Hermes Agent는 [MIT 라이선스](https://github.com/nousresearch/hermes-agent/blob/main/LICENSE)로 배포됩니다.
+
+
+## 더 읽어보기
+
+### 구축 과정
+Hermes를 실제로 세우고 굴리며 정리한 시행착오와 운영 판단을 시리즈로 공개합니다.
+
+- [구축 과정 허브로 이동](/build-journey/)
+- [왜 우리는 OpenClaw에서 Hermes로 넘어왔나](/build-journey/01-why-we-moved-from-openclaw-to-hermes)
+- [왜 우리는 하비를 메인 창구로 두었나](/build-journey/02-why-harvey-is-the-front-door)
+
+### 활용 사례
+Hermes를 실제 운영 흐름에 붙일 때 어떤 구조가 유효했는지 사례 중심으로 정리합니다.
+
+- [활용 사례 허브로 이동](/use-cases/)
+- [팀 내 메인 창구 운영](/use-cases/team-front-door-operations)
+- [위키에서 블로그와 강의로 파생하는 콘텐츠 시스템](/use-cases/wiki-to-blog-and-lecture-pipeline)
+

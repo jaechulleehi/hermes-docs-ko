@@ -98,6 +98,8 @@ export default defineConfig({
         text: '활용 사례',
         items: [
           { text: '활용 사례 허브', link: '/use-cases/' },
+          { text: '팀 내 메인 창구 운영', link: '/use-cases/team-front-door-operations' },
+          { text: '위키에서 블로그와 강의로 파생하는 콘텐츠 시스템', link: '/use-cases/wiki-to-blog-and-lecture-pipeline' },
         ],
       },
       {

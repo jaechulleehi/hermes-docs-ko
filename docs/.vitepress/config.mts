@@ -106,6 +106,11 @@ export default defineConfig({
           { text: '구축 과정 허브', link: '/build-journey/' },
           { text: '01. OpenClaw에서 Hermes로 넘어왔나', link: '/build-journey/01-why-we-moved-from-openclaw-to-hermes' },
           { text: '02. 하비를 메인 창구로 두었나', link: '/build-journey/02-why-harvey-is-the-front-door' },
+          { text: '03. 같은 하비인데 기억이 다르게 느껴질까', link: '/build-journey/03-why-same-harvey-feels-like-different-memory' },
+          { text: '04. 파일은 있는데 왜 도구는 못 읽을까', link: '/build-journey/04-why-tools-cannot-read-files-that-exist' },
+          { text: '05. Google Workspace 연동은 왜 오래 걸릴까', link: '/build-journey/05-why-google-workspace-integration-takes-longer-than-expected' },
+          { text: '06. 삽질을 체크리스트로 바꾸는 법', link: '/build-journey/06-how-to-turn-stumbles-into-checklists' },
+          { text: '07. 왜 위키를 먼저 쓰고 나중에 뽑을까', link: '/build-journey/07-why-we-write-the-wiki-first' },
         ],
       },
       {

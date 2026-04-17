@@ -22,13 +22,11 @@ Hermes를 단순 챗봇이 아니라 **운영 가능한 시스템**으로 세우
 ## 지금 읽을 수 있는 글
 - [01. 왜 우리는 OpenClaw에서 Hermes로 넘어왔나](/build-journey/01-why-we-moved-from-openclaw-to-hermes)
 - [02. 왜 우리는 하비를 메인 창구로 두었나](/build-journey/02-why-harvey-is-the-front-door)
-
-## 곧 이어질 글
-- 03. 왜 같은 하비인데 기억이 다르게 느껴질까
-- 04. 분명 파일은 있는데 왜 도구는 못 읽을까
-- 05. Google Workspace 연동은 왜 늘 생각보다 오래 걸릴까
-- 06. 삽질을 다음 사람의 체크리스트로 바꾸는 법
-- 07. 왜 우리는 위키를 먼저 쓰고 블로그와 강의를 나중에 뽑을까
+- [03. 왜 같은 하비인데 기억이 다르게 느껴질까](/build-journey/03-why-same-harvey-feels-like-different-memory)
+- [04. 분명 파일은 있는데 왜 도구는 못 읽을까](/build-journey/04-why-tools-cannot-read-files-that-exist)
+- [05. Google Workspace 연동은 왜 늘 생각보다 오래 걸릴까](/build-journey/05-why-google-workspace-integration-takes-longer-than-expected)
+- [06. 삽질을 다음 사람의 체크리스트로 바꾸는 법](/build-journey/06-how-to-turn-stumbles-into-checklists)
+- [07. 왜 우리는 위키를 먼저 쓰고 블로그와 강의를 나중에 뽑을까](/build-journey/07-why-we-write-the-wiki-first)
 
 ## 이 섹션의 역할
 - **공식 문서**가 기능과 사용법을 설명한다면

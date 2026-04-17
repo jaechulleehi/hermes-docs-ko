@@ -248,6 +248,6 @@ OpenClaw에서 Hermes로 넘어온 건 더 화려한 이름을 찾은 일이 아
 
 ## 시리즈 이동
 
-- [← 구축 과정 허브로 돌아가기](/build-journey/)
-- [다음 글: 왜 우리는 하비를 메인 창구로 두었나 →](/build-journey/02-why-harvey-is-the-front-door)
+- [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/02-why-harvey-is-the-front-door)
 

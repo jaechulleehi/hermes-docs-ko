@@ -244,6 +244,7 @@ sidebar:
 
 ## 시리즈 이동
 
-- [← 이전 글: 왜 우리는 OpenClaw에서 Hermes로 넘어왔나](/build-journey/01-why-we-moved-from-openclaw-to-hermes)
+- [← 이전 글](/build-journey/01-why-we-moved-from-openclaw-to-hermes)
 - [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/03-why-same-harvey-feels-like-different-memory)
 

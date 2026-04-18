@@ -218,4 +218,5 @@ Hermes는 이미 자동 압축, 세션 분리, memory, session_search, skill 같
 ## 시리즈 이동
 
 - [← 이전 글](/build-journey/25-why-openclaw-to-hermes-needed-a-migration-checklist)
+- [다음 글 →](/build-journey/27-why-agent-adoption-fails-in-operations)
 - [구축 과정 허브로 돌아가기](/build-journey/)

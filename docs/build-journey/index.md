@@ -24,6 +24,7 @@ Hermes를 단순 챗봇이 아니라 **운영 가능한 시스템**으로 세우
 11. 정리형 운영 — 뽀동이 정리형 에이전트는 어디서 강해지고 어디서 흔들릴까
 12. 전환 체크리스트 — OpenClaw에서 Hermes로 넘어올 때 체크리스트는 왜 필요했을까
 13. 컨텍스트 운영 — 긴 대화가 쌓일수록 에이전트는 왜 흐려지고 Hermes는 어떻게 버티나
+14. 초도 도입 운영 — 처음 에이전트를 도입한 조직은 왜 운영에서 자주 무너질까
 
 ## 지금 읽을 수 있는 글
 - [01. 왜 우리는 OpenClaw에서 Hermes로 넘어왔나](/build-journey/01-why-we-moved-from-openclaw-to-hermes)
@@ -52,6 +53,7 @@ Hermes를 단순 챗봇이 아니라 **운영 가능한 시스템**으로 세우
 - [24. 뽀동이 정리형 에이전트는 어디서 강해지고 어디서 흔들릴까](/build-journey/24-where-ppodongi-organization-agent-is-strong-and-where-it-wobbles)
 - [25. OpenClaw에서 Hermes로 넘어올 때 체크리스트는 왜 필요했을까](/build-journey/25-why-openclaw-to-hermes-needed-a-migration-checklist)
 - [26. 긴 대화가 쌓일수록 에이전트는 왜 흐려지고 Hermes는 어떻게 버티나](/build-journey/26-why-agents-get-fuzzy-in-long-conversations-and-how-hermes-holds-up)
+- [27. 처음 에이전트를 도입한 조직은 왜 운영에서 자주 무너질까](/build-journey/27-why-agent-adoption-fails-in-operations)
 
 ## 이 섹션의 역할
 - **공식 문서**가 기능과 사용법을 설명한다면
@@ -59,4 +61,4 @@ Hermes를 단순 챗봇이 아니라 **운영 가능한 시스템**으로 세우
 
 ## 메모
 
-현재 GitHub Pages 공개본은 1~26편 흐름 기준으로 계속 보강 중입니다. 실제 공개 범위는 GitHub Pages 최신 배포본을 기준으로 확인합니다.
+현재 GitHub Pages 공개본은 1~27편 흐름 기준으로 계속 보강 중입니다. 실제 공개 범위는 GitHub Pages 최신 배포본을 기준으로 확인합니다.

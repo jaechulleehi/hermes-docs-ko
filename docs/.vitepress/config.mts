@@ -121,6 +121,7 @@ export default defineConfig({
           { text: '23. 방울이 조사형 에이전트는 어디서 강해지고 어디서 흔들릴까', link: '/build-journey/23-where-bangwooli-research-agent-is-strong-and-where-it-wobbles' },
           { text: '24. 뽀동이 정리형 에이전트는 어디서 강해지고 어디서 흔들릴까', link: '/build-journey/24-where-ppodongi-organization-agent-is-strong-and-where-it-wobbles' },
           { text: '25. OpenClaw에서 Hermes로 넘어올 때 체크리스트는 왜 필요했을까', link: '/build-journey/25-why-openclaw-to-hermes-needed-a-migration-checklist' },
+          { text: '26. 긴 대화가 쌓일수록 에이전트는 왜 흐려지고 Hermes는 어떻게 버티나', link: '/build-journey/26-why-agents-get-fuzzy-in-long-conversations-and-how-hermes-holds-up' },
         ],
       },
       {

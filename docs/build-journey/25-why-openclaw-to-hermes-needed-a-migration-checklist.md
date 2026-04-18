@@ -113,4 +113,5 @@ OpenClaw에서 Hermes로 넘어올 때 체크리스트가 필요했던 이유는
 
 - [← 이전 글](/build-journey/24-where-ppodongi-organization-agent-is-strong-and-where-it-wobbles)
 - [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/26-why-agents-get-fuzzy-in-long-conversations-and-how-hermes-holds-up)
 

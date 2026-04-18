@@ -25,6 +25,8 @@ sidebar:
 하지만 동시에 여기서 멈추면 안 됩니다.
 **Hermes는 잘 설계되어 있지만, 오래 안정적으로 쓰려면 운영 원칙까지 같이 가져가야 합니다.**
 
+![긴 대화가 쌓일수록 에이전트는 왜 흐려지고 Hermes는 어떻게 버티나](/assets/build-journey/why-context-rot-happens-and-how-hermes-reduces-it/og-card-final.png)
+
 ---
 
 ## 왜 긴 대화는 결국 흐려질까
@@ -62,6 +64,8 @@ sidebar:
 ### 4. 절차가 대화 속에만 머물 때
 잘 풀었던 방법이 skill로 승격되지 않으면 비슷한 작업을 매번 새로 설명해야 합니다. 이 체감은 쉽게 “기억이 약해졌다”로 번역됩니다.
 
+![컨텍스트 부패는 어디서 시작되나](/assets/build-journey/why-context-rot-happens-and-how-hermes-reduces-it/article-figure-01-context-rot-starts.png)
+
 ---
 
 ## Hermes는 이 문제를 어떻게 줄이도록 설계됐나
@@ -98,6 +102,8 @@ Hermes는 memory와 session_search를 분리해서 씁니다.
 반복 작업이 계속 나오는 운영에서는, 대화 기억보다 절차 기억이 더 중요해집니다. Hermes는 skill로 해결 절차를 외부화할 수 있기 때문에, 같은 작업을 긴 대화 문맥에만 의존하지 않아도 됩니다.
 
 즉 Hermes는 컨텍스트 부패를 “버퍼 관리 문제”로만 보지 않고, **기억의 역할 분리 문제**로 같이 다룹니다.
+
+![Hermes는 무엇으로 긴 운영을 버티나](/assets/build-journey/why-context-rot-happens-and-how-hermes-reduces-it/article-figure-02-hermes-context-strategy.png)
 
 ---
 
@@ -154,6 +160,8 @@ Hermes는 memory와 session_search를 분리해서 씁니다.
 
 ### 5. 반복 업무는 skill로 승격한다
 반복 작업을 계속 긴 대화 안에서만 풀고 있으면, 컨텍스트를 매번 새로 태웁니다. 검증된 절차는 skill로 고정해야 합니다.
+
+![좋은 운영은 결국 무엇을 습관으로 만드나](/assets/build-journey/why-context-rot-happens-and-how-hermes-reduces-it/article-figure-03-operating-rules.png)
 
 ---
 

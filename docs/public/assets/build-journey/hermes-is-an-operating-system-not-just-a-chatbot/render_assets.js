@@ -1,0 +1,19 @@
+
+const { chromium } = require('/Users/ice/.nvm/versions/node/v24.14.1/lib/node_modules/playwright');
+const path = require('path');
+(async () => {
+  const browser = await chromium.launch({ headless: true });
+  const page = await browser.newPage({ deviceScaleFactor: 1 });
+  const jobs = [
+    ['og-card.html', 'og-card-final-hidpi.png', 2400, 1260],
+    ['figure1.html', 'article-figure-01-front-door-system.png', 1600, 900],
+    ['figure2.html', 'article-figure-02-layers-and-boundaries.png', 1600, 900],
+    ['figure3.html', 'article-figure-03-operating-loop.png', 1600, 900],
+  ];
+  for (const [html, png, w, h] of jobs) {
+    await page.setViewportSize({ width: w, height: h });
+    await page.goto('file://' + path.join(process.cwd(), html), { waitUntil: 'networkidle' });
+    await page.screenshot({ path: png });
+  }
+  await browser.close();
+})();

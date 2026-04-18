@@ -1,6 +1,8 @@
 ---
 title: "에르메스는 단순 챗봇이 아니라 운영 시스템이다"
 description: "Hermes는 단순히 질문에 답하는 챗봇이 아니라, 요청 해석, 역할 분리, 프로필 경계, 기억 레이어, 도구 실행, 기록 자산화를 묶은 운영 시스템에 가깝다. 핵심 구조를 정리한다."
+sidebar:
+  label: "에르메스는 단순 챗봇이 아니라 운영 시스템이다"
 ---
 
 # 에르메스는 단순 챗봇이 아니라 운영 시스템이다
@@ -24,6 +26,7 @@ Hermes를 운영 시스템으로 봐야 하는 이유는,
 즉,
 이건 똑똑한 답변 하나의 문제가 아니라 **지속적으로 굴러가는 운영 구조를 어떻게 만들 것인가**의 문제입니다.
 
+![에르메스는 단순 챗봇이 아니라 운영 시스템이다](/assets/build-journey/hermes-is-an-operating-system-not-just-a-chatbot/og-card-final.png)
 
 ---
 
@@ -66,6 +69,7 @@ Hermes는 여러 역할이 있어도 사용자 앞에서는 하비 같은 메인
 그래서 Hermes를 챗봇보다 운영 시스템이라고 보는 순간,
 하비는 캐릭터가 아니라 **front door이자 orchestrator**로 이해됩니다.
 
+![메인 창구는 시스템의 front door다](/assets/build-journey/hermes-is-an-operating-system-not-just-a-chatbot/article-figure-01-front-door-system.png)
 
 ---
 
@@ -119,6 +123,7 @@ Hermes는 기억을 마법처럼 한 덩어리로 보지 않습니다.
 Hermes는 기억을 똑똑해 보이게 포장하기보다
 **운영 가능한 층으로 분해**해서 다룹니다.
 
+![운영 시스템은 기억을 레이어로 본다](/assets/build-journey/hermes-is-an-operating-system-not-just-a-chatbot/article-figure-02-layers-and-boundaries.png)
 
 ---
 
@@ -168,6 +173,7 @@ session / memory / skill / docs를 분리해서 봅니다.
 Hermes를 챗봇으로만 설명하면 구조가 사라지고,
 운영 시스템으로 설명해야 왜 이런 설계를 했는지가 보인다는 점입니다.
 
+![답변 시스템이 아니라 운영 시스템이다](/assets/build-journey/hermes-is-an-operating-system-not-just-a-chatbot/article-figure-03-operating-loop.png)
 
 ---
 
@@ -238,3 +244,11 @@ Hermes의 핵심은 답변 품질만이 아니다. 메인 창구, 역할 분리,
 - Topic - Hermes Agent Ops
 - Topic - Hermes의 특징과 OpenClaw와의 차이
 - Visual Brief - 에르메스는 단순 챗봇이 아니라 운영 시스템이다
+
+---
+
+## 시리즈 이동
+
+- [← 이전 글](/build-journey/08-why-good-research-does-not-automatically-become-a-good-blog)
+- [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/10-when-and-how-to-manage-skills-in-hermes)

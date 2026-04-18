@@ -1,6 +1,8 @@
 ---
 title: "에르메스 운영에서 제일 자주 나오는 질문들"
 description: "Hermes 운영에서 가장 자주 나오는 질문은 정체성, profile/기억, 역할 구조, 도구 연동, 문서, runtime 축으로 모인다. 좋은 FAQ는 답보다 판단 기준을 먼저 준다."
+sidebar:
+  label: "에르메스 운영에서 제일 자주 나오는 질문들"
 ---
 
 # 에르메스 운영에서 제일 자주 나오는 질문들
@@ -25,6 +27,7 @@ Hermes 운영에서 가장 자주 나오는 질문은,
 즉,
 좋은 운영 FAQ는 “무엇이 답인가”만 말하지 않고 **어떻게 판단해야 하는가**를 같이 남깁니다.
 
+![에르메스 운영에서 제일 자주 나오는 질문들](/assets/build-journey/most-common-hermes-ops-questions-and-how-to-think/og-card-final.png)
 
 ---
 
@@ -77,6 +80,7 @@ Hermes 운영에서 가장 자주 나오는 질문은,
 질문은 많아 보여도
 **운영 판단 축은 생각보다 적습니다.**
 
+![반복 질문은 몇 개의 축으로 모인다](/assets/build-journey/most-common-hermes-ops-questions-and-how-to-think/article-figure-01-question-clusters.png)
 
 ---
 
@@ -127,6 +131,7 @@ Hermes 운영에서 가장 자주 나오는 질문은,
 답변을 외우기보다
 **지금 무슨 종류의 문제인지 먼저 판별하는 것**입니다.
 
+![좋은 FAQ는 판단 프레임을 준다](/assets/build-journey/most-common-hermes-ops-questions-and-how-to-think/article-figure-02-decision-frame.png)
 
 ---
 
@@ -144,6 +149,7 @@ Hermes 운영에서 가장 자주 나오는 질문은,
 반복 질문은 귀찮은 support backlog가 아니라
 **운영 구조가 드러나는 가장 좋은 출발점**이 됩니다.
 
+![FAQ는 위키와 블로그의 진입점이다](/assets/build-journey/most-common-hermes-ops-questions-and-how-to-think/article-figure-03-faq-to-content.png)
 
 ---
 
@@ -208,3 +214,11 @@ session, memory, skill, profile/state.db, runtime/gateway, docs/source-of-truth 
 
 ### 옵션 2
 반복 질문은 귀찮은 support backlog가 아니라 운영 구조가 드러나는 가장 좋은 출발점이다. FAQ는 정답 모음보다 판단 프레임 압축본에 가까워야 한다.
+
+---
+
+## 시리즈 이동
+
+- [← 이전 글](/build-journey/13-what-to-do-with-legacy-while-keeping-current-truth-clear)
+- [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/15-why-multibot-threads-get-noisy)

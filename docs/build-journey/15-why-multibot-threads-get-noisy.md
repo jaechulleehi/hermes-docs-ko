@@ -1,6 +1,8 @@
 ---
 title: "멀티봇 스레드는 왜 쉽게 시끄러워질까"
 description: "멀티봇 스레드는 자유로워 보이지만 규칙 없이 두면 금방 시끄러워진다. 핵심은 여러 봇이 있어도 사용자는 누가 언제 말하는지 예측 가능해야 한다는 점이다."
+sidebar:
+  label: "멀티봇 스레드는 왜 쉽게 시끄러워질까"
 ---
 
 # 멀티봇 스레드는 왜 쉽게 시끄러워질까
@@ -24,6 +26,7 @@ description: "멀티봇 스레드는 자유로워 보이지만 규칙 없이 두
 즉,
 멀티봇 운영의 핵심은 더 많이 말하게 하는 게 아니라 **더 예측 가능하게 말하게 하는 것**입니다.
 
+![멀티봇 스레드는 왜 쉽게 시끄러워질까](/assets/build-journey/why-multibot-threads-get-noisy/og-card-final.png)
 
 ---
 
@@ -66,6 +69,7 @@ description: "멀티봇 스레드는 자유로워 보이지만 규칙 없이 두
 좋은 멀티봇 운영은 기술 과시보다
 **응답 조건 설계**가 먼저입니다.
 
+![혼선의 원인은 봇 수보다 응답 조건이다](/assets/build-journey/why-multibot-threads-get-noisy/article-figure-01-response-rules.png)
 
 ---
 
@@ -102,6 +106,7 @@ description: "멀티봇 스레드는 자유로워 보이지만 규칙 없이 두
 호출 규칙은 하비 구조의 UX 버전이라고 볼 수 있습니다.
 복잡성은 뒤로 숨기고 사용자는 전진만 하게 만드는 방식입니다.
 
+![기본은 하비, 역할형은 명시 호출](/assets/build-journey/why-multibot-threads-get-noisy/article-figure-02-front-door-and-explicit-call.png)
 
 ---
 
@@ -121,6 +126,7 @@ description: "멀티봇 스레드는 자유로워 보이지만 규칙 없이 두
 그래서 보통은
 **기본은 메인 창구, 다봇 환경에선 명시 호출**이 제일 안정적입니다.
 
+![멀티봇이 귀찮아지지 않게 만드는 규칙](/assets/build-journey/why-multibot-threads-get-noisy/article-figure-03-single-vs-multi-thread-rule.png)
 
 ---
 
@@ -185,3 +191,11 @@ description: "멀티봇 스레드는 자유로워 보이지만 규칙 없이 두
 
 ### 옵션 2
 기본은 하비, 역할형 봇은 명시 호출, 두 개 이상 봇이 있는 스레드는 멘션 기반. 멀티봇이 귀찮아지지 않게 만드는 핵심은 결국 응답 조건 설계다.
+
+---
+
+## 시리즈 이동
+
+- [← 이전 글](/build-journey/14-most-common-hermes-ops-questions-and-how-to-think)
+- [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/16-why-research-agents-rush-to-conclusions)

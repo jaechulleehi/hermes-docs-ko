@@ -1,6 +1,8 @@
 ---
 title: "정리형 에이전트는 왜 그럴듯하지만 약한 글을 만들까"
 description: "정리형 에이전트의 대표 실패는 재료 없이 그럴듯한 초안을 만들거나 목적 없이 구조화하는 데서 나온다. 보기 좋은데 약한 글이 왜 생기는지 운영 기준을 정리한다."
+sidebar:
+  label: "정리형 에이전트는 왜 그럴듯하지만 약한 글을 만들까"
 ---
 
 # 정리형 에이전트는 왜 그럴듯하지만 약한 글을 만들까
@@ -24,6 +26,7 @@ description: "정리형 에이전트의 대표 실패는 재료 없이 그럴듯
 즉,
 좋은 정리형 결과는 문장보다 **구조 기준과 목적 고정**에서 나옵니다.
 
+![정리형 에이전트는 왜 그럴듯하지만 약한 글을 만들까](/assets/build-journey/why-writing-agents-produce-polished-but-weak-drafts/og-card-final.png)
 
 ---
 
@@ -58,6 +61,7 @@ description: "정리형 에이전트의 대표 실패는 재료 없이 그럴듯
 정리형 에이전트의 핵심은 예쁘게 쓰는 것이 아니라
 **충분한 재료를 목적에 맞게 재배열하는 것**입니다.
 
+![보기 좋은 빈 문서는 왜 위험한가](/assets/build-journey/why-writing-agents-produce-polished-but-weak-drafts/article-figure-01-pretty-but-empty.png)
 
 ---
 
@@ -97,6 +101,7 @@ description: "정리형 에이전트의 대표 실패는 재료 없이 그럴듯
 좋은 정리형 운영은 더 똑똑해 보이는 게 아니라
 **자기 역할을 지키는 것**에서 강해집니다.
 
+![정리와 조사를 섞으면 둘 다 약해진다](/assets/build-journey/why-writing-agents-produce-polished-but-weak-drafts/article-figure-02-role-boundary.png)
 
 ---
 
@@ -119,6 +124,7 @@ description: "정리형 에이전트의 대표 실패는 재료 없이 그럴듯
 좋은 정리형 에이전트는 많이 쓰는 에이전트가 아니라
 **목적에 맞게 구조를 세우는 에이전트**입니다.
 
+![좋은 정리형의 기준](/assets/build-journey/why-writing-agents-produce-polished-but-weak-drafts/article-figure-03-structure-first.png)
 
 ---
 
@@ -153,3 +159,11 @@ description: "정리형 에이전트의 대표 실패는 재료 없이 그럴듯
 ## 내부 링크 포인트
 - 실패 패턴 원문은 Topic - 정리형 에이전트 뽀동이 실패 패턴 모음으로 연결한다.
 - handoff 기준은 Topic - 하비-방울이-뽀동이 handoff 품질 기준으로 연결한다.
+
+---
+
+## 시리즈 이동
+
+- [← 이전 글](/build-journey/16-why-research-agents-rush-to-conclusions)
+- [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/18-when-harvey-should-handle-directly-vs-delegate)

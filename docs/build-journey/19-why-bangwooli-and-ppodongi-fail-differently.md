@@ -1,6 +1,8 @@
 ---
 title: "방울이와 뽀동이는 왜 각각 다른 실패를 반복할까"
 description: "조사형과 정리형 에이전트는 능력 차이보다 역할 근육이 다르기 때문에 서로 다른 실패를 반복한다. 방울이와 뽀동이의 실패 패턴을 함께 보면 운영 기준이 더 선명해진다."
+sidebar:
+  label: "방울이와 뽀동이는 왜 각각 다른 실패를 반복할까"
 ---
 
 # 방울이와 뽀동이는 왜 각각 다른 실패를 반복할까
@@ -24,6 +26,7 @@ description: "조사형과 정리형 에이전트는 능력 차이보다 역할 
 즉,
 중요한 건 개인 성능 비교가 아니라 **각 역할이 어디서 무너지는지 알고 운영 기준을 다르게 세우는 것**입니다.
 
+![방울이와 뽀동이는 왜 각각 다른 실패를 반복할까](/assets/build-journey/why-bangwooli-and-ppodongi-fail-differently/og-card-final.png)
 
 ---
 
@@ -75,6 +78,7 @@ description: "조사형과 정리형 에이전트는 능력 차이보다 역할 
 뽀동이의 실패는 문장력 부족이 아니라
 **입력 재료와 목적과 구조 기준 부족**에서 더 자주 나옵니다.
 
+![조사형과 정리형은 다른 곳에서 무너진다](/assets/build-journey/why-bangwooli-and-ppodongi-fail-differently/article-figure-01-different-failure-zones.png)
 
 ---
 
@@ -113,6 +117,7 @@ description: "조사형과 정리형 에이전트는 능력 차이보다 역할 
 둘에게 같은 피드백을 주는 게 아니라
 **역할에 맞는 실패 교정 기준을 따로 주는 것**입니다.
 
+![역할별 교정 기준은 달라야 한다](/assets/build-journey/why-bangwooli-and-ppodongi-fail-differently/article-figure-02-role-specific-fixes.png)
 
 ---
 
@@ -129,6 +134,7 @@ description: "조사형과 정리형 에이전트는 능력 차이보다 역할 
 좋은 역할 분리는 봇을 나누는 것만으로 끝나지 않고
 **실패 패턴을 기준으로 handoff를 설계하는 데서 완성**됩니다.
 
+![하비는 실패 패턴을 알고 handoff를 잡아야 한다](/assets/build-journey/why-bangwooli-and-ppodongi-fail-differently/article-figure-03-handoff-design.png)
 
 ---
 
@@ -170,3 +176,11 @@ description: "조사형과 정리형 에이전트는 능력 차이보다 역할 
 - 방울이 실패 패턴은 Topic - 조사형 에이전트 방울이 실패 패턴 모음으로 연결한다.
 - 뽀동이 실패 패턴은 Topic - 정리형 에이전트 뽀동이 실패 패턴 모음으로 연결한다.
 - handoff 기준은 Topic - 하비-방울이-뽀동이 handoff 품질 기준으로 연결한다.
+
+---
+
+## 시리즈 이동
+
+- [← 이전 글](/build-journey/18-when-harvey-should-handle-directly-vs-delegate)
+- [구축 과정 허브로 돌아가기](/build-journey/)
+- [다음 글 →](/build-journey/20-why-recovery-playbooks-are-about-order-not-just-docs)

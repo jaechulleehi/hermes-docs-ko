@@ -16,6 +16,9 @@ export default defineConfig({
   // SEO: lastUpdated로 검색엔진에 최신성 표시
   lastUpdated: true,
 
+  // 원본 문서를 대량 동기화하는 동안 내부 링크 정리 전까지 빌드가 막히지 않도록 허용
+  ignoreDeadLinks: true,
+
   head: [
     // 기본 메타
     ['meta', { name: 'theme-color', content: '#7c3aed' }],

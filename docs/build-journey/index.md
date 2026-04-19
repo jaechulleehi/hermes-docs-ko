@@ -54,6 +54,8 @@ Hermes를 단순 챗봇이 아니라 **운영 가능한 시스템**으로 세우
 - [25. OpenClaw에서 Hermes로 넘어올 때 체크리스트는 왜 필요했을까](/build-journey/25-why-openclaw-to-hermes-needed-a-migration-checklist)
 - [26. 긴 대화가 쌓일수록 에이전트는 왜 흐려지고 Hermes는 어떻게 버티나](/build-journey/26-why-agents-get-fuzzy-in-long-conversations-and-how-hermes-holds-up)
 - [27. 처음 에이전트를 도입한 조직은 왜 운영에서 자주 무너질까](/build-journey/27-why-agent-adoption-fails-in-operations)
+- [28. Slack에서 오늘 있었던 일 요약해줘가 그냥 되는 기능이 아닌 이유](/build-journey/28-why-summarize-what-happened-today-in-slack-is-not-a-simple-feature)
+- [29. 에르메스 기능이 잘 안 될 때 왜 로컬 검증이 먼저여야 할까](/build-journey/29-why-local-validation-should-come-first-when-hermes-features-break)
 
 ## 이 섹션의 역할
 - **공식 문서**가 기능과 사용법을 설명한다면
@@ -61,4 +63,4 @@ Hermes를 단순 챗봇이 아니라 **운영 가능한 시스템**으로 세우
 
 ## 메모
 
-현재 GitHub Pages 공개본은 1~27편 흐름 기준으로 계속 보강 중입니다. 실제 공개 범위는 GitHub Pages 최신 배포본을 기준으로 확인합니다.
+현재 GitHub Pages 공개본은 1~29편 흐름 기준으로 계속 보강 중입니다. 실제 공개 범위는 GitHub Pages 최신 배포본을 기준으로 확인합니다.
